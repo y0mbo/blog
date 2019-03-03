@@ -4,7 +4,7 @@ title: The 5 Goals of Software
 date: '2011-05-24'
 author: John Uhri
 description: >-
-  _ The five things that software does to help your business. _
+  The five things that software does to help your business.
 keywords:
   - Software 
   - Revenue
