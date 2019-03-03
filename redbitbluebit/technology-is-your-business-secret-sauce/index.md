@@ -1,3 +1,23 @@
+---
+slug: technology-is-your-business-secret-sauce
+title: Technology is Your Business's Secret Sauce
+date: '2011-05-24'
+author: John Uhri
+description: >-
+  Techology is not a great equalizer; it is driving the leaders and laggards apart.
+keywords:
+    - Business
+    - Competitive Advantage
+    - Custom Software Development
+    - Data
+    - Data Visualization
+    - IT
+    - Technology
+banner: ./images/banner.jpg
+bannerCredit:
+  ''
+---
+
 Small business owners are often so busy with the day-to-day work in their business that they forget to look at the big picture. The Wall Street Journal discovered [What Makes a Company Good at IT?](http://online.wsj.com/article/SB10001424052748704547804576260781324726782.html) - it's understanding the numbers. In fact, it has been discovered that there is a direct correlation between understanding your business's numbers and profit:
 
 >"[T]he companies that had the data they needed and used it to make decisions (instead of relying more on intuition and expertise) had the highest productivity and profitability. Specifically, the most data-driven companies had 4% higher productivity and 6% higher profits than the average in our sample, all else being equal."
