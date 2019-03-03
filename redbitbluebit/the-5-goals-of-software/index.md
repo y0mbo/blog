@@ -7,6 +7,7 @@ description: >-
   _ The five things that software does to help your business. _
 keywords:
   - Software 
+  - Revenue
 banner: ./images/banner.jpg
 bannerCredit:
   ''
