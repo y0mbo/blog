@@ -1,7 +1,7 @@
 ---
 slug: the-technology-snowball
 title: The Technology Snowball
-date: '2001-08-02'
+date: '2011-08-02'
 author: John Uhri
 description: >-
   _ Start automating your business processes using the technology snowball. _
